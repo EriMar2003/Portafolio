@@ -1,0 +1,67 @@
+body { 
+background-image: url(Sakura.jpg.jpg); 
+background-size: cover;
+}
+
+.principio{
+display: flex;
+justify-content: center;
+   
+font-family: inherit;
+font-size: 50px;
+background: rgba(249, 246, 246, 0.8);
+padding: 20px;
+            border-radius: 9%;
+            width: fit-content;
+            margin: 0 auto;
+            text-align: center;
+
+
+
+
+}
+
+#sobremi{
+    
+    font-size: 60px;
+    background: rgba(249, 246, 246, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+p{
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    background: rgba(249, 246, 246, 0.8);
+border-radius: 4px;
+
+}
+
+.educacion{
+    background-color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    background: rgba(249, 246, 246, 0.8);
+border-radius: 1px;
+padding: 20px;
+    border-radius: 10px;
+    width: fit-content;
+    margin: auto;
+    text-align: left;
+  
+}
+
+#educacion{
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 60px;
+    
+   
+  
+}
+
